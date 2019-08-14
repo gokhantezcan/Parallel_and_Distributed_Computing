@@ -1,1 +1,1 @@
-Parallel and Distributed Computing Examples from different sources
+Parallel and Distributed Computing  working examples from different sources
